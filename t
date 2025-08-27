@@ -1,6 +1,6 @@
 public class Main{
     puiblic static void main{
-        System.out.println("Hello Worldssswww");
+        System.out.println("Hello World");
 
     }
 }
